@@ -4,3 +4,4 @@
 3： 把冰箱门关上。
 4：successfully answer the qusetion
 mo1
+mo2
