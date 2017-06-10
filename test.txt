@@ -20,3 +20,5 @@ APPle pay
 
 新建分支 and 切换分支
 
+git is free software
+
